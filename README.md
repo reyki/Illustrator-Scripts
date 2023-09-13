@@ -1,12 +1,13 @@
 # Illustrator-Scripts
 Ultimately maximizing efficiency and productivity in Adobe Illustrator.
-```markdown
 
 ## CloseAllPaths (Modified)
 
 This script is a modification of the original "WR-closeAllPaths" script created by Wolfgang Reszel (ai-js@rumborak.de). The original script's purpose is to close open paths in Adobe Illustrator. This modified version enhances the functionality to close both filled paths and paths with strokes.
 
 The Illustrator Join Path Script enhances the functionality of the native CTRL+J (Cmd+J on macOS) command, allowing you to seamlessly join paths while preserving the current path's bezier handles and information. This script intelligently connects endpoints using the selected item's bezier details, ensuring precise and controlled path joining in Adobe Illustrator. Streamline your workflow and maintain creative control with this powerful path manipulation tool.
+
+```markdown
 
 ### How to Use the Script
 
