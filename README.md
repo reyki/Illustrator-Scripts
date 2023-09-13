@@ -3,7 +3,8 @@ Ultimately maximizing efficiency and productivity in Adobe Illustrator.
 
 ## CloseAllPaths (Modified)
 
-[Direct Download Here](https://github.com/reyki/Illustrator-Scripts/blob/main/closeAllPaths.jsx)
+[Download here](https://github.com/reyki/Illustrator-Scripts/blob/main/closeAllPaths.jsx)
+
 
 This script is a modification of the original "WR-closeAllPaths" script created by Wolfgang Reszel (ai-js@rumborak.de). The original script's purpose is to close open paths in Adobe Illustrator. This modified version enhances the functionality to close both filled paths and paths with strokes.
 
