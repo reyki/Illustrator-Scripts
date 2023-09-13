@@ -1,6 +1,7 @@
 # Illustrator-Scripts
 Ultimately maximizing efficiency and productivity in Adobe Illustrator.
 
+---
 ## CloseAllPaths (Modified)
 
 [Download here](https://github.com/reyki/Illustrator-Scripts/blob/main/closeAllPaths.jsx)
