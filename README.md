@@ -40,4 +40,4 @@ The script automates the process of closing open paths in Adobe Illustrator. It 
 -  **Close all Open Paths inside Clipping Mask:** It closes all open paths within clipping masks.
 
 ### Limitation:
-- If multiple paths from different objects are selected, it will close the currently selected chosen paths.
+- If multiple paths from different objects are selected, it will close each selected path objects.
