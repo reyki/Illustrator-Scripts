@@ -8,7 +8,7 @@ This script is a modification of the original "WR-closeAllPaths" script created 
 
 The Illustrator Join Path Script enhances the functionality of the native CTRL+J (Cmd+J on macOS) command, allowing you to seamlessly join paths while preserving the current path's bezier handles and information. This script intelligently connects endpoints using the selected item's bezier details, ensuring precise and controlled path joining in Adobe Illustrator. Streamline your workflow and maintain creative control with this powerful path manipulation tool.
 
-## Function:
+### Function:
 
 The script automates the process of closing open paths in Adobe Illustrator. It works in two modes:
 
