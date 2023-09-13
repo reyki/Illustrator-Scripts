@@ -38,3 +38,6 @@ The script automates the process of closing open paths in Adobe Illustrator. It 
 - **Selected Paths Mode:** It closes open paths among the selected objects in the Illustrator document, also considering both filled paths and paths with strokes.
 
 -  **Close all Open Paths inside Clipping Mask:** It closes all open paths within clipping masks.
+
+### Limitation:
+- If multiple objects are selected, it will close the currently selected chosen each paths.
