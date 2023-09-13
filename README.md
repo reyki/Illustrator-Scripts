@@ -21,7 +21,7 @@ Follow these simple steps to use the Illustrator Join Path Script:
 
 5. **Run the Script:**
    - Go to `File` > `Scripts` > `Other Script...`.
-   - Choose the downloaded script file (`join-paths.jsx`) and click `Open`.
+   - Choose the script file (`CloseAllPaths.jsx`) and click `Open`.
 
 6. **Watch It Work:**
    - The script will automatically join the selected paths while preserving bezier handle information.
