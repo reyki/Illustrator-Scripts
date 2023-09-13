@@ -9,7 +9,7 @@ var warning_limit = 400;
 var closeUnfilledPaths = false; // 'true' = Ungefüllte Pfade werden ebenfalls geschlossen.
 // Set it to 'true' if you want to close all paths whether they are filled or not.
 
-var WR = "WR-closePaths v0.4\n\n";
+var WR = "Close All Paths\n\n";
 
 if (language == "de") {
   var MSG_asksel = WR + "Willst du alle ausgew\xE4hlten offenen Pfadobjekte schlie\xDFen?";
