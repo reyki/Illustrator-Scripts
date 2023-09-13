@@ -1,4 +1,4 @@
-// WR-closeAllPaths.jsx (Modified by Reyki with the help of ChatGPT)
+// WR-closeAllPaths.jsx (Modified by Reyki)
 // Original script by Wolfgang Reszel (ai-js@rumborak.de)
 // Version 0.4 from 20.7.2005
 
