@@ -2,6 +2,28 @@
 // Original script by Wolfgang Reszel (ai-js@rumborak.de)
 // Version 0.4 from 20.7.2005
 
+//////////////////////////////////////////////////////////// english //
+// ------------------------
+// -=> WR-closeAllPaths <=-
+// ------------------------
+//
+// A Javascript for Adobe Illustrator
+// by Wolfgang Reszel (ai-js@rumborak.de)
+// bugfixed by Vladimir Kapustin
+//
+// Version 0.4 from 20.7.2005
+//
+// This script closes all (or all selected) open paths. It does not
+// conncet touching paths, what's possible with the pathfinder-
+// function "divide".
+//
+// To enable the english messages and change the "de" into "en" in line 44.
+//
+// Sorry for my bad english. For any corrections send an email to:
+// ai-js@rumborak.de
+//
+
+
 // -------------------------------------------------------------------
 
 var language = "en"; // "de" for Deutsch
